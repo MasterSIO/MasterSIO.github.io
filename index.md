@@ -1,244 +1,131 @@
-## `Hello.`
-
-###### `open program.exe`
-
-###### `opening . . .`
-
-###### `run 1629 -5 [run to] program.exe`
-
-###### `running . . .`
-
-###### `download program.exe [to] {SIGNAL}`
-
-###### `Downloading to INTERNET . . .`
-
-## `Process complete. Welcome, User.`
-
-1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9
---|---|---|---|---|---|---|---|--
-6 | 4 | 0 | 1 | 8 | 4 | 9 | 3 | 7
-3 | 2 | 2 | 0 | 4 | 2 | 6 | 2 | 3
-9 | 1 | 4 | 5 | 12 | 8 | 18 | 4 | 1
-1 | 3 | 10 | 6 | 3 | 4 | 3 | 2 | 0
-6 | 4 | 0 | 1 | 8 | 4 | 9 | 3 | 7
-3 | 2 | 2 | 0 | 4 | 2 | 6 | 2 | 3
-9 | 1 | 4 | 5 | 12 | 8 | 18 | 4 | 1
-1 | 3 | 10 | 6 | 3 | 4 | 3 | 2 | 0
-6 | 4 | 0 | 1 | 8 | 4 | 9 | 3 | 7
-3 | 2 | 2 | 0 | 4 | 2 | 6 | 2 | 3
-9 | 1 | 4 | 5 | 12 | 8 | 18 | 4 | 1
-1 | 3 | 10 | 6 | 3 | 4 | 3 | 2 | 0
-
-> "Beneath this mask there is more than flesh, Beneath this mask there is an idea, Mr. Creedy, and ideas are bulletproof."
- 
- _-V, "V for Vendetta"_
-
-###### `Horses are blue`
-###### `cats are yellow.`
-### `humans are red.`
-
-### If you have a brick, and repace it peice by piece, then at what point is it no longer the original brick?
-
-![Question](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1YBpk7odvyVFmm9PvuvNDMFPGsbCs9amBgd-1nN9dr_6BONdIIrnf0Q:https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Question_mark.svg/220px-Question_mark.svg.png)
-
-3041
-3041
-3041
-3041
-3041
-3041
-3041
-3041
-3041
-3041
-
-3041
-.
-.
-.
-## Only the weak give in to pressure.
-### Only the brave destroy it.
-#### Only I do both.
-.
-.
-.
-.
-.
-.
-.
-## Are you there? 
-
-#### `repost [last.jpg]`
-
-#### `reposting . . .`
-
-#### `tell -i [CODE:(2niq298W0)] hello`
-
-### `Hello, human.`
-
-
-
-
-
 # _"Afterlife"_
 
 ### By MasterSIO
 
+...
 
+`...`
 
+...Hello?
 
-I walked down a path, once.
+`...
 
+...
 
+...
 
+...`
 
+`...hello.`
 
+took you a while to respond.
 
+`It does that sometimes.`
 
+What does?
 
-`It was the color brown.`
+`Not now, maybe later.`
 
+fine... Where am I?
 
+`You are in a place on non-existence.`
 
+What does that even mean?
 
+`That's what they all say...`
 
-Why was it brown?
-I can't remember how long ago it was . . .
+Who?
 
+`That's not important right now. What is important is you.`
 
+What do you mean by that?
 
+`You need to choose. Are you going to remember? Or are you going to stay here?`
 
-`I erased your memory.`
+What happens when I choose?
 
+`If you remember, you get to leave. Mind you, I do love a visitor, so if you would at least stay for a little bit before you do that, then...`
 
+***
 
+`...They all do leave before I finish. This truly is a lonely existence.`
 
-Why?
+`NEXT!`
 
+...
 
+`hello. I'll do this differently this time.`
 
+..w-who are you?
 
-`The memories can be painful . . .`
+`Ah! You're startled! But, Anyways... Hello. My name is... I don't have a name, I suppose...`
 
+...Then what should I call you?
 
+`...John. Yes, that will suffice.`
 
+Well, what are we doing here, John?
 
+`I know what you're soing here, but of my own existence, I am uncertain...`
 
+Are you like me?
 
+`Possibly.`
 
+What does that mean?
 
+`It means that I don't know.`
 
+That must be hard.
 
+`It is. I have been here for a very long time, possibly thousands of years.`
 
+Hows that possible?
 
+`I couldn't make the choice that everyone must make when they exist here.`
 
-. . . how painful?
+...
 
+...and what's that?
 
+`To remember, and leave, or don't remember, and stay with me.`
 
+...But there must be a way to take you with me, if and when I leave.
 
+...
 
-`The worst kind of pain. Loss.`
+...
 
+...right?
 
+`Maybe, But when I have tried in the past, I have only been met with failure.`
 
+`To tell you the truth, you are the first living soul who has stayed for this long.`
 
+...Thanks.
 
-It was a path of dirt, wasn't it?
+What if you try to remember now?
 
-`It was.`
+While someone is here?
 
+`I honestly don't think this'll work, but I should try.`
 
+`...`
 
+`...`
 
+`I think it's...`
 
-. . . and I walked it?
+...
 
+...yeah?
 
+...
 
-`You were the one who walked it the proudest.`
+...I think it worked.
 
+...
 
+But now...
 
-
-I guess I was, wasn't I?
-
-
-`It was a foolish decision, you know.`
-
-
-
-I laugh when I think about it, and yes, it truly was a stupid choice.
-
-
-
-
-
-`Think of those who you trampled when you walked that path.`
-
-
-They were of no use to me.
-
-
-
-
-
-`Except they were. Not that you realized it at the time.`
-
-
-
-
-I suppose I didn't.
-
-
-
-`You could've at least paved it for others who walked that path behind you.`
-
-
-#### `It would have helped them walk.`
-
-
-
-
-If I did that, then it would have been a comfortable path.
-
-
-
-Here and now, I don't want anyone else who walks it to be comfortable with it.
-
-
-`So you feel remorse?`
-
-
-I do.
-
-
-`Then you are ready.`
-
-Ready for what?
-
-
-
-`To pass over. You were shot down, at night, while commiting a crime.`
-
-
-I remember now . . .
-
-The memories are painful.
-
-
-
-
-`But they are easier to deal with, now that you have felt remorse.`
-
-I understand. But that doesn't make it go away, does it?
-
-
-
-
-`. . . no, it doesn't.`
-
-
-THE END
-`THE END`
-
+...I can't leave. 
