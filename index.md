@@ -8,14 +8,6 @@
 
 ...Hello?
 
-`...`
-
-`...`
-
-`...`
-
-`...`
-
 `...hello.`
 
 took you a while to respond.
