@@ -121,3 +121,33 @@ While someone is here?
 But now...
 
 ...I can't leave. 
+
+Well, this sucks.
+
+NEXT!
+
+`...`
+
+`...hello?`
+
+Hi.
+
+`Who are you?`
+
+I'm... I'm... I forgot. How odd.
+
+`What am I doing here?`
+
+You are here to make a choice. 
+
+It's very important.
+
+`...What is it?`
+
+You can remember and leave, or...
+
+`...`
+
+...
+
+...Well that was rude.
